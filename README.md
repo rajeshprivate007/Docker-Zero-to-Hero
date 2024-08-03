@@ -1,4 +1,4 @@
-# Repo to learn Docker with examples. Contributions are most welcome
+# Repo to learn Docker with examples. Contributions are most welcome.
 
 ## If you found this repo useful, give it a STAR 🌠
 
@@ -281,7 +281,7 @@ Login Succeeded
 You need to change the username accoringly in the below command
 
 ```
-docker build -t abhishekf5/my-first-docker-image:latest .
+docker build -t rajesh7620/first-docker-project:latest .
 ```
 
 Output of the above command
